@@ -45,7 +45,7 @@ public class Invoice {
 		System.out.println(sums);
 		System.out.println("                                       |VAT(16%)    |" + total * 0.16);
 		System.out.println(sums);
-		System.out.println("                                       |Total Amount|" + (total + (total * 0.16)));
+		System.out.println("                                       |Total amount|" + (total + (total * 0.16)));
 		System.out.println(sums);
 
 	}
